@@ -824,7 +824,7 @@ screen about():
 
             label "[config.name!t]"
             text _("Version [config.version!t]\n")
-            text _("Created by Areta Athayayumna Arwaa \n\nAdvisor : Imam Kuswardayan, S.Kom., M.T.\nCo-advisor : Dr. Ir. Bilqis Amaliah, S.Kom., M.Kom. \n\n\n\nAdapted from the book “Maths Quest” by David Glover \n\nMaths Quest is an educational adventure where players solve mathematical challenges to unravel a captivating mystery story.")
+            text _("Created by Areta Athayayumna Arwaa \n\nAdvisor : Imam Kuswardayan, S.Kom., M.T.\nCo-advisor : Dr. Ir. Bilqis Amaliah, S.Kom., M.Kom. \n\nDeveloped as part of an undergraduate research project at the Department of Informatics, Institut Teknologi Sepuluh Nopember (ITS).\n\n\nAdapted from the book “Maths Quest” by David Glover\n\nMaths Quest is an educational adventure where players solve mathematical challenges to unravel a captivating mystery story.")
 
             ## gui.about is usually set in options.rpy.
             if gui.about:
